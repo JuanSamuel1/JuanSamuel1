@@ -52,10 +52,6 @@ me.say_hi()
 <h2>💻 I'm Currently Learning</h2>
 
 __Nanyang Technological University__
--  Operating System
--  Algorithm Design and Analysis
--  Probability and Stats
-
 
 <h2>👀 Stats</h2>
 
